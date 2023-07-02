@@ -1,0 +1,60 @@
+C:\Users\Zver\Desktop\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.deps.json
+C:\Users\Zver\Desktop\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.pdb
+C:\Users\Zver\Desktop\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.AssemblyInfo.cs
+C:\Users\Zver\Desktop\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\DataBaseLibrary\obj\Debug\net6.0\refint\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.pdb
+C:\Users\Zver\Desktop\DataBaseLibrary\obj\Debug\net6.0\ref\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\Swagger-Linq\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.deps.json
+C:\Users\Zver\Desktop\Swagger-Linq\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\Swagger-Linq\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.pdb
+C:\Users\Zver\Desktop\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.AssemblyInfo.cs
+C:\Users\Zver\Desktop\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\refint\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.pdb
+C:\Users\Zver\Desktop\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\ref\DataBaseLibrary.dll
+C:\Users\Zver\Downloads\Swagger-Linq\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.deps.json
+C:\Users\Zver\Downloads\Swagger-Linq\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.dll
+C:\Users\Zver\Downloads\Swagger-Linq\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.pdb
+C:\Users\Zver\Downloads\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.csproj.AssemblyReference.cache
+C:\Users\Zver\Downloads\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Downloads\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.AssemblyInfoInputs.cache
+C:\Users\Zver\Downloads\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.AssemblyInfo.cs
+C:\Users\Zver\Downloads\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Downloads\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.dll
+C:\Users\Zver\Downloads\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\refint\DataBaseLibrary.dll
+C:\Users\Zver\Downloads\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.pdb
+C:\Users\Zver\Downloads\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\ref\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\Swagger-Linq\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.deps.json
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\Swagger-Linq\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\Swagger-Linq\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.pdb
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.AssemblyInfo.cs
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\refint\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.pdb
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\ref\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.deps.json
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.pdb
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.csproj.AssemblyReference.cache
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.AssemblyInfoInputs.cache
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.AssemblyInfo.cs
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\refint\DataBaseLibrary.dll
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.pdb
+C:\Users\Zver\Desktop\ВШЭ\Программирование\Метериалы по asp\Swagger-Linq\DataBaseLibrary\obj\Debug\net6.0\ref\DataBaseLibrary.dll

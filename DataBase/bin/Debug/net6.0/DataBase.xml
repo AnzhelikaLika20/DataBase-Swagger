@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataBase</name>
+    </assembly>
+    <members>
+        <member name="M:DataBase.Controllers.DataBaseController.CreateTable(System.String)">
+            <summary>
+            Enter Good(Sale/Buyer/Shop) to create a table of type Good(Sale/Buyer/Shop).
+            </summary>
+            <param name="type">Type of the table.</param>
+            <returns>Created table of type T.</returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseController.AddGood(System.String,System.Int32,System.String,System.Int64)">
+            <summary>
+            Adding a good to the database.
+            </summary>
+            <param name="name">Name of a good.</param>
+            <param name="shopId">The id of a shop.</param>
+            <param name="category">The category of a good.</param>
+            <param name="price">The price of a good.</param>
+            <returns>An added object of type Good</returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseController.AddBuyer(System.String,System.String,System.String,System.String)">
+            <summary>
+            Adding a buyer to the database.
+            </summary>
+            <param name="name">The Name of a buyer.</param>
+            <param name="surname">The surname of the buyer.</param>
+            <param name="city">The buyer's city of residence.</param>
+            <param name="country">The buyer's country of residence.</param>
+            <returns>An added object of type buyer.</returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseController.AddSale(System.Int32,System.Int32,System.Int32,System.Int64)">
+            <summary>
+            Adding a sale to the database.
+            </summary>
+            <param name="buyerId">The id of a buyer.</param>
+            <param name="shopId">The id of a shop.</param>
+            <param name="goodId">The id of a good.</param>
+            <param name="goodCount"></param>
+            <returns>An added object of type Sale.</returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseController.AddShop(System.String,System.String,System.String)">
+            <summary>
+            Adding a shop to the database.
+            </summary>
+            <param name="name">The name of a shop.</param>
+            <param name="city">The city of a shop.</param>
+            <param name="country">The country of a shop.</param>
+            <returns>An added object of type Shop.</returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseController.GetTable(System.String)">
+            <summary>
+            Enter Good(Sale/Buyer/Shop) to get a table of type Good(Sale/Buyer/Shop).
+            </summary>
+            <param name="type">A type of a table.</param>
+            <returns>The table of type T.</returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseController.SerializeTable(System.String,System.String)">
+            <summary>
+            Serializing a table of type T to a file with the path location.
+            </summary>
+            <param name="type">A type of a table.</param>
+            <param name="path">A path of file for serialized data.</param>
+            <returns>Verdict of serialization.</returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseController.DeserializeTable(System.String,System.String)">
+            <summary>
+            Deserializing a table with type T to from the file with the path location.
+            </summary>
+            <param name="type">A type of a table.</param>
+            <param name="path">A path of file with json presentation of data.</param>
+            <returns>Verdict of deserialization.</returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseInformationController.GetAllGoodsOfLongestNameBuyer">
+            <summary>
+            Getting a list of all products purchased by the buyer with the longest name.
+            </summary>
+            <returns>A list of all products purchased by the buyer with the longest name.</returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseInformationController.GetMostExpensiveGoodCategory">
+            <summary>
+            Getting the name of the category of the most expensive product.
+            </summary>
+            <returns>The name of the category of the most expensive product.</returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseInformationController.GetMinimumSalesCity">
+            <summary>
+            Getting the name of the city where the least money was spent.
+            </summary>
+            <returns>The name of the city where the least money was spent.</returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseInformationController.GetMostPopularGoodBuyers">
+            <summary>
+            Getting a list of buyers who bought the most popular product.
+            </summary>
+            <returns>A list of buyers who bought the most popular product.</returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseInformationController.GetMinimumNumberOfShopsInCountry">
+            <summary>
+            Determining the number of stores for each country and getting the smallest value.
+            </summary>
+            <returns>The number of stores for each country and getting the smallest value.</returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseInformationController.GetOtherCitySales">
+            <summary>
+            Getting a list of purchases made by customers in all cities other than their city of residence.
+            </summary>
+            <returns>A list of purchases made by customers in all cities other than their city of residence.</returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseInformationController.GetTotalSalesValue">
+            <summary>
+            Getting the total cost of purchases made by all customers.
+            </summary>
+            <returns>The total cost of purchases made by all customers.</returns>
+        </member>
+    </members>
+</doc>

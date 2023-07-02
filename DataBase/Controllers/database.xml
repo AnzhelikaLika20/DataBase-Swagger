@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataBase</name>
+    </assembly>
+    <members>
+        <member name="M:DataBase.Controllers.DataBaseController.CreateTable(System.String)">
+            <summary>
+            Введите Good(Sale/Buyer/Shop), чтобы создать таблицу типа Good(Sale/Buyer/Shop)
+            </summary>
+            <param name="type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseController.AddGood(System.String,System.Int32,System.String,System.Int64)">
+            <summary>
+            Добавление товара в базу данных
+            </summary>
+            <param name="name"></param>
+            <param name="shopId"></param>
+            <param name="category"></param>
+            <param name="price"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseController.AddBuyer(System.String,System.String,System.String,System.String)">
+            <summary>
+            Добавление покупателя в базу данных
+            </summary>
+            <param name="name"></param>
+            <param name="surname"></param>
+            <param name="city"></param>
+            <param name="country"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseController.AddSale(System.Int32,System.Int32,System.Int32,System.Int64)">
+            <summary>
+            Добавление покупки в базу данных
+            </summary>
+            <param name="buyerId"></param>
+            <param name="shopId"></param>
+            <param name="goodId"></param>
+            <param name="goodCount"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseController.AddShop(System.String,System.String,System.String)">
+            <summary>
+            Добавление магазина в базу данных
+            </summary>
+            <param name="name"></param>
+            <param name="city"></param>
+            <param name="country"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseController.GetTable(System.String)">
+            <summary>
+            Введите Good(Sale/Buyer/Shop), чтобы получить таблицу типа Good(Sale/Buyer/Shop)
+            </summary>
+            <param name="type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseController.SerializeTable(System.String,System.String)">
+            <summary>
+            Сериализация таблицы типа type в файл с расположением path
+            </summary>
+            <param name="type"></param>
+            <param name="path"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseController.DeserializeTable(System.String,System.String)">
+            <summary>
+            Десериализация таблицы типа type в файл с расположением path
+            </summary>
+            <param name="type"></param>
+            <param name="path"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseInformationController.GetAllGoodsOfLongestNameBuyer">
+            <summary>
+            Получение списка всех товаров, купленных покупателем с самым длинным именем.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseInformationController.GetMostExpensiveGoodCategory">
+            <summary>
+            Получение названия категории самого дорогого товара.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseInformationController.GetMinimumSalesCity">
+            <summary>
+            Получение названия города, в котором было потрачено меньше всего денег.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseInformationController.GetMostPopularGoodBuyers">
+            <summary>
+            Получение списка покупателей, которые купили самый популярный товар
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseInformationController.GetMinimumNumberOfShopsInCountry">
+            <summary>
+            Определение количества магазинов для каждой страны и получение наименьшего значения.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseInformationController.GetOtherCitySales">
+            <summary>
+            Получение списка покупок, совершенных покупателями во всех городах, отличных от города их проживания
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DataBase.Controllers.DataBaseInformationController.GetTotalSalesValue">
+            <summary>
+            Полчение общей стоимости покупок, совершенных всеми покупателями.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
